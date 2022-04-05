@@ -1,2 +1,2 @@
 # Single-Player-Pong
-Why not?
+Simple Pong Game
